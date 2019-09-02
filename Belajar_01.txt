@@ -1,0 +1,4 @@
+Apa saja yang harus saya pelajari
+1. GIT
+2. C#
+3. JSON
